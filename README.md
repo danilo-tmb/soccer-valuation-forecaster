@@ -4,7 +4,8 @@ OPIM 5671: Data Mining and Time Series Forecasting — Team 7
 An end-to-end time-series forecasting framework and decision-support prototype designed to predict European professional soccer player market valuations 6 to 12 months (2 to 4 quarters) ahead. The system evaluates quoted transfer fees against projected market trends to guide sporting directors in Buy, Hold/Extend, and Sell decisions.
 
 🔗 Live Interactive Prototype
-Check out the interactive decision-support tool: 👉 Team 7 Transfer Fee Check Prototype
+Check out the interactive decision-support tool: 
+https://uconn-my.sharepoint.com/:u:/r/personal/pwc25003_uconn_edu/Documents/Data%20Mining%20-%20Project%201/Team7_Transfer_Fee_Check.html?d=w488b6676ceb94776a34d2abf3f5506ed&csf=1&web=1&e=IcBKpT
 
 📌 Project Overview
 In professional soccer, technical and sporting directors face a fundamental dilemma during every transfer window: "Is a player worth the quoted price today given where their value will be in 6 to 12 months?"
