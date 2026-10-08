@@ -56,5 +56,7 @@ Selective Sample Size: Cohort restricted to 15 well-covered players; results may
 Market Value $\neq$ Negotiated Fee: Transfermarkt estimates theoretical worth; real transfer fees depend on contract leverage, injuries, club urgency, and bidding wars.
 Regime Sensitivity: Models require dynamic recalibration across changing macroeconomic and market cycles.
 Future Enhancements: Expand player coverage, integrate actual transfer transaction fees, incorporate on-pitch performance/injury metrics, and implement dynamic uncertainty bands.
+
+
 📜 Project Info & Credits
 Developed for OPIM 5671: Data Mining and Time Series Forecasting — Team 7.
